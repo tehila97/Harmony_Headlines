@@ -9,6 +9,8 @@ export default function NewsCard (props) {
              <p>data:{props.date} </p>
              <p>author:{props.author} </p>
              <p>source:{props.source}</p>
-      </div>       
+        <div> 
+        </div>
+      </div>    
     );
   };
